@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 CSDN：https://blog.csdn.net/qq_22871083
 
 个人博客网站：http://www.ghang.top
+
+![](https://github.com/gaohanghang/gaohanghang/blob/master/dino.gif)
