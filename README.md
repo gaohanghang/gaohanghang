@@ -21,4 +21,7 @@ CSDN：https://blog.csdn.net/qq_22871083
 
 个人博客网站：http://www.ghang.top
 
+访问人数统计：![访问人数统计](https://profile-counter.glitch.me/gaohanghang/count.svg)
+
+
 ![](https://github.com/gaohanghang/gaohanghang/blob/master/dino.gif)
