@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gaohanghang&show_icons=true&theme=radical)](https://github.com/gaohanghang/github-readme-stats)
+
+
 博客园：https://www.cnblogs.com/gaohanghang
 
 CSDN：https://blog.csdn.net/qq_22871083
@@ -29,4 +32,3 @@ CSDN：https://blog.csdn.net/qq_22871083
 ![](https://github.com/gaohanghang/gaohanghang/blob/master/dino.gif)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gaohanghang&show_icons=true&theme=radical)](https://github.com/gaohanghang/github-readme-stats)
