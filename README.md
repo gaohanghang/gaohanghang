@@ -29,4 +29,4 @@ CSDN：https://blog.csdn.net/qq_22871083
 ![](https://github.com/gaohanghang/gaohanghang/blob/master/dino.gif)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gaohanghang)](https://github.com/gaohanghang/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gaohanghang&show_icons=true&theme=radical)](https://github.com/gaohanghang/github-readme-stats)
