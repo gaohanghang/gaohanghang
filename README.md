@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 个人博客网站：https://www.gaohanghang.cn （原域名：http://www.ghang.top ）
 
+个人知识库：https://www.yuque.com/gaohanghang
+
 [stackoverflow](https://stackoverflow.com/users/7458156/hang-gao)
 
 博客园：https://www.cnblogs.com/gaohanghang
