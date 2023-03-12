@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 个人博客网站：https://www.gaohanghang.cn （原域名：http://www.ghang.top ）
 
-高行行的notion：https://www.notion.so/gaohanghang/notion-30ce017293224c44a656a1a285e9bdff
+高行行的notion：https://gaohanghang.xyz/ | https://www.notion.so/gaohanghang/notion-30ce017293224c44a656a1a285e9bdff
 
 [stackoverflow](https://stackoverflow.com/users/7458156/hang-gao)
 
