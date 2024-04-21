@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gaohanghang&show_icons=true&theme=dark)](https://github.com/gaohanghang/github-readme-stats)
 
-个人博客网站：https://www.gaohanghang.cn （原域名：http://www.ghang.top ）
-
 高行行的notion：https://gaohanghang.notion.site/30ce017293224c44a656a1a285e9bdff
 
 [stackoverflow](https://stackoverflow.com/users/7458156/hang-gao)
